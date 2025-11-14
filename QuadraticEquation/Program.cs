@@ -1,6 +1,4 @@
-﻿using System.Net.Http.Headers;
-
-double a, b, c, x, x1, x2;
+﻿double a, b, c, x, x1, x2;
 
 Console.WriteLine("Quadratic equation (ax^2 + bx + c = 0)");
 
